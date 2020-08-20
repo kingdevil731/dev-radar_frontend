@@ -1,0 +1,14 @@
+aside {
+    width: 320px;
+    background-color: #FFF;
+    box-shadow: 0 0 14PX 0 rgba(0, 0, 0, 0.02);
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+aside strong {
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    color: #333;
+}
