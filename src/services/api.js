@@ -1,6 +1,6 @@
-import axios from 'axios';
+import axios from "axios";
 const api = axios.create({
-  baseURL: "https://dev-radar-backend.herokuapp.com",
+  baseURL: "https://devradar0.herokuapp.com",
 });
 
 export default api;
